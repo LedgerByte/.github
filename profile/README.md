@@ -4,7 +4,7 @@
 
 <div align="center">
 
-~~  Have all your assets into a single wallet  ~~
+~~  Store all your assets into a single wallet  ~~
 </div>
 
 ---
