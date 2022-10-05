@@ -1,4 +1,4 @@
-![](/profile/poster.png)
+![](/profile/ArrowPay-banner.png)
 
 </br>
 
