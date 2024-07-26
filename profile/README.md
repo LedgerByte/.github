@@ -1,10 +1,10 @@
-![](/profile/ArrowPay-banner.jpg)
+![](./arrow-banner.png)
 
 </br>
 
 <div align="center">
 
-~~  Store all your assets into a single wallet  ~~
+~~  An integrated environment for daily crypto transactions.  ~~
 </div>
 
 ---
@@ -13,8 +13,8 @@
 
 # Table of Contents
 - [Introduction](#introduction)
-- [Code of Conduct](https://github.com/xArrowPay/.github/blob/main/profile/CODE-OF-CONDUCT.md)
+- [Code of Conduct](./CODE-OF-CONDUCT.md)
 
 ## Introduction
 
-At ArrowPay, we are building blockchain based solutions for real-world problems and making the blockchain more easily accessible to the public. We are a team of developers, designers, and blockchain enthusiasts who are passionate about building a better future for the world. We are currently working on a few projects and are looking for more people to come join us in our mission to make the world a better place for everyone. We are looking for people who are passionate about blockchain and want to make a difference in the world. If you are interested in joining us, please reach out to us on our [Discord](**Yet to come**) server.
+At Arrow, we are revolutionizing daily transactions with blockchain-based solutions, making cryptocurrency easily accessible for everyone. Our team of developers, designers and blockchain enthusiasts is dedicated to building a better future through innovative technology. We are currently working on an integrated environment that includes a non-custodial wallet, a global decentralized payment network and SDKs for businesses to seamlessly accept cryptocurrency. We are looking for passionate individuals who want to make a significant impact in the blockchain space. If you are excited about transforming the future of payments, join us on our mission. Connect with us on our [Discord](**Yet to come**) server.
